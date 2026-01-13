@@ -1,1 +1,50 @@
-
+[
+    {
+        "name": "The One",
+        "leaderName": "Chi",
+        
+      	"outerColor": [20,180,160],
+      	"innerColor": [175,160,85],
+        "uniques": ["[+500]% City Strength from defensive buildings",
+		                "[+200]% Strength <when defending>",
+                    "[+15]% growth [in this city]",
+                    "[-80]% Unhappiness from [Population] [in this city]",
+          
+                    "[+4 Science] per [1] population [in capital]",
+                    "[+3 Production] per [1] population [in capital]",
+                    
+                    "[+2 Production] per [1] population [in this city]",
+		                "[+1 Happiness] per [3] population [in this city]",
+                    "[+1 Gold] per [3] population [in this city]",
+                    "[+2 Science] per [1] population [in this city]",
+                    "[+2 Culture] per [1] population [in this city]",
+		                "[+3 Faith] per [1] population [in this city]",
+        	          "[+1 Food] per [3] population [in this city]",
+          
+                    "New [Military] units start with [100] Experience [in all cities]",  
+		                "[15] HP when healing <for [All] units>",
+		                "No movement cost to pillage <for [All] units>",
+                    "[+80]% Strength <for [All] units>",                    
+                    "[+5] Movement <for [All] units>",
+                    "+2% Strength for Military units for every Happiness",
+                    "Gain +25% Strength for Military units for every 1 HP lost\nEarn 90% of killed Military unit's Strength as [Culture]",          
+		                
+		
+		              	"[Land] units gain the [Water's Blessing] promotion",
+			              "[All] units gain the [Fire's Blessing] promotion",
+			              "[All] units gain the [Bird's Blessing] promotion",
+			              "[All] units gain the [God's Blessing] promotion",
+			              "[Water] units gain the [Assissin] promotion",
+			
+                    "May buy [All] buildings for [50] [Science] [in all cities]",
+		                "May buy [All] units for [30] [Culture] [in all cities]",
+		                "Cities are razed [5] times as fast",  
+              	    "Can move immediately once bought",
+                    "City-State territory always counts as friendly territory",
+                    "May choose [6] additional belief(s) of any type when [founding] a religion",
+                    "Quantity of strategic resources produced by the empire +[300]%",
+	                  "[+8] Movement <in [Water] tiles>"]
+      
+	     "cities": ["The Great","Hermes","Venus","Earth","Mars","Jupiter","Saturn","Uranus","Neptune"]
+	}
+]
