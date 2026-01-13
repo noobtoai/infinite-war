@@ -27,7 +27,6 @@
                     "[+80]% Strength <for [All] units>",                    
                     "[+5] Movement <for [All] units>",
                     "+2% Strength for Military units for every Happiness",
-                    "Gain +25% Strength for Military units for every 1 HP lost\nEarn 90% of killed Military unit's Strength as [Culture]",          
 		                
 		
 		              	"[Land] units gain the [Water's Blessing] promotion",
@@ -39,7 +38,7 @@
                     "May buy [All] buildings for [50] [Science] [in all cities]",
 		                "May buy [All] units for [30] [Culture] [in all cities]",
 		                "Cities are razed [5] times as fast",  
-              	    "Can move immediately once bought",
+              	    "[All] units Can move immediately once bought",
                     "City-State territory always counts as friendly territory",
                     "May choose [6] additional belief(s) of any type when [founding] a religion",
                     "Quantity of strategic resources produced by the empire +[300]%",
